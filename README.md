@@ -1,2 +1,3 @@
 # hello-world
-Lear to use github
+Learn to use github
+I start learning web programming.
